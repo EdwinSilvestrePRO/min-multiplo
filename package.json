@@ -2,7 +2,7 @@
   "name": "multiplo",
   "version": "1.0.0",
   "type": "module",
-  "description": "Este paquete es para la exploración de múltiplos de números naturales, puedes utilizar la mcm([n,...]) para poder encontar el mínimo común multiplo de 1 o mas números naturales.",
+  "description": "Este paquete es para la exploración de múltiplos de números naturales, puedes utilizar la mcm([n,...]) para poder encontrar el mínimo común múltiplo de 1 o mas números naturales.",
   "main": "multiploSearch.js",
   "bugs": "https://github.com/EdwinSilvestrePRO/multiplo/issues",
   "repository" : {
