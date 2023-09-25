@@ -1,8 +1,8 @@
-# Multiplo
+# Multiplos
 
 Tener a nuestra disposición una función simple
 y poderosa que es capaz de encontrar múltiplos
-es genial ahora con el paquete **multiplo**, tan
+es genial ahora con el paquete **multiplos**, tan
 simple como se describe también lo es en tamaño.
 
 Su uso consiste en la utilización de la función *mcm()* que por
@@ -20,7 +20,7 @@ condisiones:
 ## Aquí un ejemplo de implementación:
 
 ```javascript
-import { mcm } from 'multiplo';
+import { mcm } from 'multiplos';
 
 console.log(mcm()) // null
 console.log(mcm(4)) // 4
